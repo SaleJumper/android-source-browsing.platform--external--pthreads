@@ -30,4 +30,7 @@ Debug/
 Release/
 release/
 
-pthreads-*-release/
+pthread.obj
+pthreadVC2.exp
+pthreadVC2.lib
+pthreadVC2.map
